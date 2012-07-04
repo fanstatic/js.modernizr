@@ -1,8 +1,8 @@
 CHANGES
 *******
 
-2.5.4 (unreleased)
-==================
+2.5.3.1 (2012-07-04)
+====================
 
 - Extract the html5shiv to its own fanstatic package.
   If you need this package, include it seperately.
